@@ -1,2 +1,2 @@
 # Advertising-Sales-Channel-Prediction
-This is an ML project.
+This is an ML project for sales prediction.
